@@ -4,6 +4,9 @@ import face_recognition
 import numpy as np
 import serial
 
+# just adding some notes!
+# nothing more...
+
 #ser=serial.Serial('COM5',9600)
 
 def quit():
